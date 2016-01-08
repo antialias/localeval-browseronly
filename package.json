@@ -1,12 +1,13 @@
 {
-  "name": "localeval",
+  "name": "localeval-browseronly",
   "main": "localeval.js",
-  "description": "A sandboxed eval().",
+  "description": "A sandboxed eval() forked from localeval for bundleing with webpack",
   "author": "Thaddee Tyl <thaddee.tyl@gmail.com> (http://espadrine.github.com/)",
   "contributors": [
-    "Thaddee Tyl <thaddee.tyl@gmail.com>"
+    "Thaddee Tyl <thaddee.tyl@gmail.com>",
+    "Thomas Hallock <thomas@1stdibs.com>"
   ],
-  "version": "15.2.3",
+  "version": "1.0.0",
   "homepage": "http://espadrine.github.com/localeval/",
   "repository": {
     "type": "git",
